@@ -1,0 +1,76 @@
+.body{
+ 
+ margin: 0 auto;
+ width: 400px;
+ box-shadow: red;
+ border-radius: 10px;
+ background-color: #808770;
+ border: 2px groove #ddd;
+
+}
+.name{
+  margin: 0 auto;
+    width: 300px;
+    box-shadow: 2px 1px 5px blue;
+    border-radius: 25px;
+    font-size: 25px;
+    font-family:Helvetica, sans-serif;
+    font-style: italic;
+    text-align: center;
+  background-color: #fff;
+}
+.dog{
+  margin-top: 5px;
+    width: 325px;
+    height: 225px;
+    box-shadow: 5px 5px 5px 0px white;
+    border-radius: 25px; 
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.fact{
+  font-style: italic;
+  font-family:Helvetica, sans-serif;
+  background-color: #fff;
+}
+
+.animal {
+  
+  padding: 3px;
+  text-align: center;
+  font-style: bold;
+  background-color: #fff;
+}
+P{
+  background-color: #fff;
+}
+
+.title{
+  background-color: #fff;
+}
+
+.list {
+    font-family: cursive ,sans-serif;
+    font-size: 10px;
+    text-align: left;
+    list-style-type: none;
+  
+}
+
+.label {
+    font-weight: bold;
+    font-family: cursive;
+    text-transform: capitalize;
+}
+.description-box {
+ 
+  text-align: center;
+  background-color: #fff;
+}
+.description{
+  text-align: center;
+  font-size: 15px;
+  color: blue;
+}
